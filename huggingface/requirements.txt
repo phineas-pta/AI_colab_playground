@@ -1,0 +1,11 @@
+ipython
+jupyterlab
+ipywidgets
+tqdm
+pytorch-gpu>=1.9
+transformers>=4.19.0
+diffusers
+accelerate
+sentencepiece
+scipy
+ftfy

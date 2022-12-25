@@ -1,0 +1,3 @@
+mamba create -n huggingface -c conda-forge -c nvidia -c huggingface --file requirements.txt
+conda env config vars set -n huggingface XDG_CACHE_HOME=███/myconda/cache
+jupyter kernelspec list
